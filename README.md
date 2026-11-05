@@ -1,0 +1,2 @@
+# Mapping-the-International-Patient-Pathway-An-Analytical-Study-on-Conversion-Drivers
+Operational &amp; Metrics Analysis (Action Learning Project): Designed and deployed interactive Power BI, Excel, and HTML dashboards for tracking IPD footfalls, query TAT, and enquiry-to-billed-revenue drop-offs to optimize service margins and support executive decision-making, KPI analysis and HTML dashboard designing.
